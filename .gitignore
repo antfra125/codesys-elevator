@@ -1,0 +1,9 @@
+# CODESYS cache
+*.precompilecache
+
+# User-specific files
+*.opt
+*.~u
+
+# Backup files
+*.bak
