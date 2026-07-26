@@ -24,6 +24,12 @@ The application is divided into separate Function Blocks:
 - FB_DoorControl – Controls the door
 - FB_RequestManager – Handles floor requests
 
+## Development Workflow
+
+- Feature development on personal branch
+- Merge into 'develop'
+- Stable releases merged into 'main'
+
 ## Technologies
 
 - CODESYS V3.5
