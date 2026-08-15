@@ -51,4 +51,4 @@ Planned future improvements:
 
 ## HMI
 
-![Elevator HMI](images/HMI.png)
+![Elevator HMI](Images/V%201.0%20Elevator%20HMI.png)
